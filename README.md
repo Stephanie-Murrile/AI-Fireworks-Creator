@@ -6,7 +6,8 @@ Type something like *“red and blue patriotic fireworks”* and watch it explod
 
 ## Demo
 
-https://stephanie-murrile.github.io/Fourth-of-July-AI-Firework-Creator
+https://stephanie-murrile.github.io/AI-Fireworks-Creator 
+
 
 Try prompts like:
 - "golden sparkling fireworks over ocean"
